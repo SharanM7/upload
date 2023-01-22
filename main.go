@@ -2,6 +2,6 @@ package upload
 
 import "fmt"
 
-func main() {
+func Test() {
 	fmt.Println("from upload")
 }
